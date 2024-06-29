@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QGroupBox" name="rbmultiplica">
+   <widget class="QGroupBox" name="aaaaa">
     <property name="geometry">
      <rect>
       <x>30</x>
@@ -101,7 +101,7 @@
       <string>RESTA</string>
      </property>
     </widget>
-    <widget class="QRadioButton" name="radioButton_3">
+    <widget class="QRadioButton" name="rbmultiplica">
      <property name="geometry">
       <rect>
        <x>100</x>
@@ -111,7 +111,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>MULTIPLCA</string>
+      <string>MULTIPLICA</string>
      </property>
     </widget>
     <widget class="QRadioButton" name="rbdivide">
