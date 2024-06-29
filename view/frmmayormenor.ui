@@ -166,7 +166,7 @@
       <string>MAYOR</string>
      </property>
     </widget>
-    <widget class="QPushButton" name="pushButton">
+    <widget class="QPushButton" name="lbcalcular">
      <property name="geometry">
       <rect>
        <x>120</x>
@@ -209,7 +209,7 @@
     <property name="title">
      <string>RESULTADO</string>
     </property>
-    <widget class="QLabel" name="label_6">
+    <widget class="QLabel" name="asd">
      <property name="geometry">
       <rect>
        <x>30</x>
